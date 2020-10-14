@@ -1,8 +1,9 @@
-# Amazon Clone
+# Amazon Clone with React
 
 ## Requirements
 
 - Nodejs v12
+- React v16
 - Firebase tools 
 
 ## Getting Start
